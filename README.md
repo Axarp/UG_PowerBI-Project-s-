@@ -11,7 +11,7 @@ To build a fully functional Power BI report that helps business stakeholders ans
 - What is the recovery percentage across regions?
 - How do trends change over time?
 
-### 🔍 Data Modelling
+### Data Modelling
 - Applied Power Query transformations
 - Created **calculated columns** (`Applied Loan Amount > 10L`)
 - Built **calculated tables** for target-based date comparisons
@@ -21,7 +21,7 @@ To build a fully functional Power BI report that helps business stakeholders ans
   - `SUM(Disbursed Amount)`
   - `SUM(Recovered Amount)`
 
-### 📊 Visuals & Pages
+### Visuals & Pages
 - Loan funnel: From application to recovery
 - Monthly trends (line chart)
 - Channel distribution (pie chart)
@@ -32,7 +32,7 @@ To build a fully functional Power BI report that helps business stakeholders ans
   - **Q&A Visual**
 - Interactive **Bookmarks** for toggling insights on Decomposition Tree & Q&A Visual
 
-## 🌐 Publishing & Sharing
+## Publishing & Sharing
 - Report published to **Power BI Service Workspace**
 - Created App Called UpGrad
 - Set up **Scheduled Refresh** for real-time data sync
